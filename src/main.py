@@ -13,7 +13,7 @@ def sample_function():
 
 if __name__ == "__main__":
     
-    kwargs_result = kwargsAcceptFun(name="Alice", age=30, is_student=True)
+    kwargs_result = kwargsAcceptFun(name="Aziza", age=21, is_student=True)
     print("Task 1 Result:", kwargs_result)
 
     
